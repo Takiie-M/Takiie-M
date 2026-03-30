@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Angular framework, Spring Boot**
 
-- 💬 Ask me about **Java, C#, PL/SQL, MS Azure, HTML, CSS, Kotlin, Wordpress, Domain-related topics**
+- 💬 Ask me about **Java, C#, PL/SQL, MS Azure, HTML, CSS, ASP .NET, Wordpress, Domain-related topics**
 
 - 📫 How to reach me **takalanimulaudzi98@gmail.com**
 
